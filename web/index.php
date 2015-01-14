@@ -1,4 +1,6 @@
 the php started here
+the phh is pre processor hypertext php
 <?php
-phpinfo();
+echo "<br>this is preprocessro hypertext php"
 
+?>
