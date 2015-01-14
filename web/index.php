@@ -1,6 +1,6 @@
 the php started here
 <?php
-$favcolor = "red";
+$favcolor = "blue";
 
 switch ($favcolor) {
      case "red":
