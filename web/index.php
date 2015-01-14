@@ -15,4 +15,5 @@ switch ($favcolor) {
      default:
          echo "Your favorite color is neither red, blue, or green!";
 }
+phpinfo();
 ?>
