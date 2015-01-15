@@ -1,7 +1,7 @@
 the php started here. <br>
 <<<<<<< HEAD
 <?php
-$favcolor = "blue";
+$favcolor = "green";
 
 switch ($favcolor) {
      case "red":
